@@ -1,7 +1,7 @@
 
 
 
-<!-- GitFolio:start
+ GitFolio:start
 {
   "gitfolio": "on",
   "name": "Pedro Paulo Venâncio",
@@ -116,5 +116,5 @@ Minha meta é construir sistemas robustos, eficientes e escaláveis, no momento 
   }
 ]
 }
-GitFolio:end -->
+GitFolio:end
   
