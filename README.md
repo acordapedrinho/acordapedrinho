@@ -1,8 +1,5 @@
 
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/acordapedrinho"> 🔗
-  https://gitfollio.vercel.app/acordapedrinho
-</a>
+
 
 <!-- GitFolio:start
 {
